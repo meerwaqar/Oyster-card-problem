@@ -1,0 +1,13 @@
+install node https://nodejs.org/en/download/
+install npm https://www.npmjs.com/get-npm
+
+Enter following commands in cmd or bash To run project
+1- `npm install`
+2- `node app.js`
+
+To run tests cd to specific folder and run following commands
+e.g
+`cd card`
+`npm test card.test.js`
+or
+`npm run test card.test.js`
